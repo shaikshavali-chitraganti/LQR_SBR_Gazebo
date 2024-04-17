@@ -10,7 +10,6 @@ from control.matlab import c2d
 
 
 
-
 # L = 0.031
 # M = 1.5
 # m = 0.5
