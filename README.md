@@ -26,7 +26,7 @@ ros2 launch teeterbot_gazebo teeterbot_empty_world.launch.py
 ```
 to launch the SBR in Gazebo
 
-[5] Go to src/teeterbot/LQR and run
+[5] Go to *src/teeterbot/LQR* and run
 ```bash
 python3 LQR_SBR_Gazebo.py
 ```
