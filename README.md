@@ -16,7 +16,7 @@ colcon build –symlink-install
 ```
 Note: Run this command only once to build the project
 
-[3] In *colcon_ws*, run the command
+[3] In *colcon_ws*, run the following command
 ```bash
 source install/setup.bash
 ```
