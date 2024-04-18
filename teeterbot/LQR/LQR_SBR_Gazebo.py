@@ -1,6 +1,4 @@
 
-# NOTE reset working as expected >> fixed
-
 '''
 
 Nandagopan.K
