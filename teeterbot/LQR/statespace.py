@@ -1,7 +1,6 @@
 '''
 
 Nandagopan.K
-Email : nandagopan.k01@gmail.com
 
 '''
 import numpy as np
